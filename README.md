@@ -1,5 +1,6 @@
+# Real-Time Heart Rate Monitoring using AD8232 and Raspberry Pi Pico for IOT
 # heart-rate-monitor-ECG
-# Real-Time Heart Rate Monitoring using AD8232 and Raspberry Pi Pico
+
 Real-time heart rate detection using Raspberry Pi Pico, AD8232 ECG sensor, and OLED display (IoT Master Project)
 
 
